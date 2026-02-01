@@ -64,7 +64,7 @@ export default function LoginPage() {
           </h1>
           <p className="text-gray-500 mb-8 text-sm md:text-base">
             يا ايه، الموقع ده متقفل بكلمة سر.. <br />
-            تاريخ اليوم اللي نورتي فيه الدنيا؟
+            تاريخ اليوم اللي نورتي فيه حياتي؟
           </p>
 
           <form onSubmit={handleSubmit} className="space-y-6">
