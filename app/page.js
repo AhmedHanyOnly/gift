@@ -63,7 +63,7 @@ export default function LoginPage() {
             بوابة الحب
           </h1>
           <p className="text-gray-500 mb-8 text-sm md:text-base">
-            يا إيه، الموقع ده متقفل بكلمة سر.. <br />
+            يا ايه، الموقع ده متقفل بكلمة سر.. <br />
             تاريخ اليوم اللي نورتي فيه الدنيا؟
           </p>
 
