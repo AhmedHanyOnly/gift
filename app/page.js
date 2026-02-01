@@ -102,7 +102,7 @@ export default function LoginPage() {
           </form>
 
           <p className="mt-8 text-[10px] text-pink-300 uppercase tracking-widest font-bold">
-            Specially for Eha
+            Specially for Aya
           </p>
         </div>
 
