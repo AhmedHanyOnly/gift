@@ -10,7 +10,7 @@ export default function LoginPage() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (date === "2025-05-20") {
+    if (date === "2025-06-20") {
       router.push("/love");
     } else {
       setError(true);
